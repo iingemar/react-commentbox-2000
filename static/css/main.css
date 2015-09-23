@@ -1,0 +1,15 @@
+body {
+    padding-top: 50px;
+}
+.main-content {
+    padding-top: 20px;
+}
+.commentBox {
+    border: 1px solid darkgray;
+    padding: 20px;
+}
+.comment {
+    border: 1px solid darkgray;
+    padding: 20px;
+    margin: 0 0 10px 0;
+}
